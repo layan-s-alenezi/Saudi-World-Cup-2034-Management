@@ -1,6 +1,6 @@
 # Saudi FIFA World Cup 2034 Management System
 
-A C++ academic project developed to manage football tournament information for the Saudi FIFA World Cup 2034.
+A C++ Data Structures course project developed to manage football tournament information for the Saudi FIFA World Cup 2034.
 
 ## Project Overview
 
@@ -31,6 +31,8 @@ This console-based application manages information about football matches, teams
 
 **Type:** Academic Group Project
 
-Developed collaboratively as part of university coursework.
+**Course:** Data Structures
+
+Developed collaboratively as part of the Data Structures course at Majmaah University.
 
 **Note:** The original submitted source code is preserved without modifications.
